@@ -15,5 +15,6 @@ Select the "Player" GameObject and in the Inspector panel, click on 'Add Compone
 ## Step 4: Create a new C# script
 
 Right-click in the Assets panel, go to "Create" > 'C# Script' and name it PlayerMovement.
+<img width="781" alt="code" src="https://github.com/aakahgireesh/JUMPING-CAPSULE/assets/146831225/5e6b7f67-a1fc-4491-a4ec-80f2ff439012">
 
 
