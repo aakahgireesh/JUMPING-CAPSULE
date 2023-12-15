@@ -3,6 +3,7 @@
 ### Features
 - Hint system
 - Move with WASD
+- jump with Spacebar
 - The player needs to catch the coins
 - to kill the traps jump on top of the traps
   
